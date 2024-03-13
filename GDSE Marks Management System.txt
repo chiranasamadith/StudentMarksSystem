@@ -1,0 +1,30 @@
+ GDSE Marks Management System
+
+The GDSE (General Diploma in Software Engineering) Marks Management System is a Java-based console application designed to streamline the process of managing student information and marks for programming fundamentals and database management system courses. This system offers functionalities such as adding new students, updating student details, adding and updating marks, printing student details and ranks, and identifying the best performers in each course.
+
+## Features
+
+- **Add New Student**: Easily add new students to the system with their ID and name.
+- **Add New Student With Marks**: Add new students along with their programming fundamentals and database management system marks.
+- **Add Marks**: Add marks for existing students, allowing for updating marks for both courses.
+- **Update Student Details**: Update student information including their name.
+- **Update Marks**: Update the marks for existing students for both programming fundamentals and database management system courses.
+- **Delete Student**: Remove a student from the system, including their associated marks.
+- **Print Student Details**: View detailed information about a specific student including their marks, total marks, average marks, and rank.
+- **Print Student Ranks**: Display a ranked list of all students based on their total marks.
+- **Best in Programming Fundamentals**: Identify the top performer in programming fundamentals.
+- **Best in Database Management System**: Identify the top performer in database management system.
+
+## Technologies Used
+
+- Java
+- Git
+
+## How to Use
+
+1. Clone the repository to your local machine.
+2. Compile the Java files using a Java compiler.
+3. Run the `marksSystem` class file to start the application.
+4. Follow the on-screen instructions to utilize the various functionalities of the system.
+
+This project was developed as part of the coursework for the General Diploma in Software Engineering (GDSE) at IJSE institute.
